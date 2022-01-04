@@ -1,0 +1,106 @@
+body {
+  margin: 0;
+}
+
+
+.img{
+  background-image: url("meipaly.jpg");
+  
+  height: 625px;
+  background-size: cover;
+}
+
+.container{
+  position: absolute;
+  font-family: sans-serif;
+
+}
+
+.navbar{
+  overflow: hidden;
+  font-size: 25px;
+  padding: 30px;
+  
+  color: black;
+  text-align: center;
+}
+
+.navbar a{
+  text-align: center;
+  padding: 18x 28px;
+  margin: 5px;
+}
+
+.icon-search{ 
+  float: right;
+  padding: 7px;
+  margin: -27px;
+  padding-right: 80px;
+  
+  
+}
+
+.icon-bars{
+  float: right;
+  padding: 7px;
+  margin: -27px;
+  padding-right: 35px;
+  
+}
+
+
+.icon-search:hover, .icon-bars:hover {
+  color: red;
+}
+
+
+.logo{
+  float: left;
+  margin-left: 40px;
+  font-weight: 900;
+}
+
+
+
+.link{
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+  padding-right: 120px;
+  
+  
+}
+
+
+.link:hover{
+  text-decoration: none;
+  color: black;
+}
+
+.h4{
+  margin-top: 60px;
+  margin-left: 170px;
+  font-size: 20px;
+}
+
+.h1{
+  font-size: 50px;
+  margin-left: 170px;
+  font-weight: 900;
+}
+
+.dis-btn{
+  border: none;
+  outline: none;
+  margin-left: 170px;
+  margin-top: 20px;
+  font-size: 20px;
+
+  padding: 18px 22px;
+  background-color: black;
+  color: white;
+}
+
+.circle{
+  border-color: black;
+}
